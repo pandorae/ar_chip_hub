@@ -1,0 +1,5 @@
+hub AR_Chip_Hub
+shortLabel AR_Chip_Hub
+longLabel  AR ChIP‑seq track hub (4 samples)
+genomesFile genomes.txt
+email      you@your.institution.edu
