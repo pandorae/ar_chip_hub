@@ -1,6 +1,6 @@
 track LNCaP_iTV3-narrow_control
 type bigWig
-bigDataUrl https://raw.githack.com/pandorae/ar_chip_hub/main/docs/LNCaP_iTV3-narrow_control.bw
+bigDataUrl https://cdn.jsdelivr.net/gh/pandorae/ar_chip_hub@main/docs/LNCaP_iTV3-narrow_control.bw
 shortLabel LNCaP_iTV3-narrow_control
 longLabel  AR ChIP‑seq LNCaP_iTV3-narrow_control
 color 200,0,0
@@ -9,7 +9,7 @@ autoScale on
 
 track LNCaP_iTV3-narrow_treat
 type bigWig
-bigDataUrl https://raw.githack.com/pandorae/ar_chip_hub/main/docs/LNCaP_iTV3-narrow_treat.bw
+bigDataUrl https://cdn.jsdelivr.net/gh/pandorae/ar_chip_hub@main/docs/LNCaP_iTV3-narrow_treat.bw
 shortLabel LNCaP_iTV3-narrow_treat
 longLabel  AR ChIP‑seq LNCaP_iTV3-narrow_treat
 color 0,0,200
@@ -18,7 +18,7 @@ autoScale on
 
 track LNCaP_MYCN-narrow_control
 type bigWig
-bigDataUrl https://raw.githack.com/pandorae/ar_chip_hub/main/docs/LNCaP_MYCN-narrow_control.bw
+bigDataUrl https://cdn.jsdelivr.net/gh/pandorae/ar_chip_hub@main/docs/LNCaP_MYCN-narrow_control.bw
 shortLabel LNCaP_MYCN-narrow_control
 longLabel  AR ChIP‑seq LNCaP_MYCN-narrow_control
 color 0,150,0
@@ -27,7 +27,7 @@ autoScale on
 
 track LNCaP_MYCN-narrow_treat
 type bigWig
-bigDataUrl https://raw.githack.com/pandorae/ar_chip_hub/main/docs/LNCaP_MYCN-narrow_treat.bw
+bigDataUrl https://cdn.jsdelivr.net/gh/pandorae/ar_chip_hub@main/docs/LNCaP_MYCN-narrow_treat.bw
 shortLabel LNCaP_MYCN-narrow_treat
 longLabel  AR ChIP‑seq LNCaP_MYCN-narrow_treat
 color 150,0,150
